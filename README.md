@@ -1,7 +1,5 @@
-# cleanliness-drive
-AI-powered civic cleanliness reporting system using Coral MCP
-
 # 🧹 Cleanliness Drive — AI-Powered Civic Reporting System
+AI-powered civic cleanliness reporting system using Coral MCP
 
 > Built for the **Pirates of the Coral-bean Hackathon** by WeMakeDevs  
 > Powered by [Coral](https://withcoral.com) — query any data source as SQL, zero ETL

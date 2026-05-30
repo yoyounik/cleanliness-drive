@@ -159,15 +159,15 @@ cleanliness-drive/
 
 ---
 
-## 📸 Screenshots to Add
+## 📸 Screenshots
 
 > 💡 **Add these screenshots to make your README shine:**
 > 1. Google Form as seen by citizens
+<img width="923" height="749" alt="image" src="https://github.com/user-attachments/assets/49ed7cbc-3bc2-4f51-bbe2-c6f9b9a77323" />
+
 > 2. Google Sheet with responses
-> 3. `coral sql "SELECT * FROM cleanliness_drive.reports"` output in PowerShell
-> 4. `coral source list` showing both sources connected
-> 5. Cross-source query output in PowerShell
-> 6. Claude Desktop showing MCP hammer icon + Coral response
+<img width="830" height="411" alt="image" src="https://github.com/user-attachments/assets/500bff71-f763-408a-acd6-6f1a9bb57d59" />
+
 
 ---
 

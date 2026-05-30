@@ -1,0 +1,20 @@
+name: cleanliness_drive
+version: 0.1.0
+dsl_version: 3
+backend: file
+test_queries:
+  - SELECT * FROM cleanliness_drive.reports LIMIT 5
+tables:
+  - name: reports
+    description: Cleanliness drive form submissions from citizens
+    format: csv
+    source:
+      location: file:///C:/Users/Nikhil/Documents/cleanliness-data/responses.csv
+      glob: "**/*.csv"
+    columns:
+      - name: TimeStamp
+        type: Utf8
+      - name: Enter the location
+        type: Utf8
+      - name: text
+        type: Utf8
